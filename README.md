@@ -1,4 +1,4 @@
 <img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/guikaua12/guikaua12/blob/master/images/stat.svg"
   alt="sexo"
 />
