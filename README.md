@@ -1,4 +1,6 @@
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guikaua12&layout=compact&theme=dark)](https://github.com/guikaua12/)
+<a href='https://github.com/guikaua12'>
+  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=guikaua12&layout=compact&theme=dark'>
+<a>
 
 <div style="display="flex"">
   <a href="https://github.com/guikaua12">
@@ -9,3 +11,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30px"/>
   </a>
 </div>
+<h3>Contato:</h3>
+<p>Discord: Approximations#6992</p>
