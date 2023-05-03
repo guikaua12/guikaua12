@@ -1,5 +1,5 @@
 <a href='https://github.com/guikaua12'>
-  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=guikaua12&layout=compact&theme=dark'>
+  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=guikaua12&range=all_time&layout=compact&theme=dark'>
 <a>
 
 <div style="display='flex'">
