@@ -18,4 +18,4 @@
   
   
 <h3>Contato:</h3>
-<p>Discord: Approximations#6992</p>
+<p>Discord: approximations</p>
