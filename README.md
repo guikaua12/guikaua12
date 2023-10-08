@@ -17,5 +17,6 @@
 
   
   
-<h3>Contato:</h3>
+<h3>Contato/Contact:</h3>
+<p>Email: email@approximations.software</p>
 <p>Discord: approximations</p>
