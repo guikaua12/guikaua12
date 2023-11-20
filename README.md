@@ -3,7 +3,7 @@
 <div align="center">
   <div>
     <h1>Hi, my name is Guilherme</h1>
-    <h3>I'm 18 years old and Coding in Java & Typescript is my passion.</h3>
+    <h3>I'm 20 years old and Coding in Java & Typescript is my passion.</h3>
     <p>My personal website: (https://approximations.software/)</p>
   </div>
 
