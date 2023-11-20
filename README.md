@@ -15,7 +15,8 @@
   </a>
 </div>
 
-  
+<h3>Website:</h3>
+<a href="https//approximations.software" target="_blank">approximations.software</a>
   
 <h3>Contato/Contact:</h3>
 <p>Email: email@approximations.software</p>
