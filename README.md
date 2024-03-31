@@ -7,7 +7,7 @@
     <p>My personal website: (https://approximations.software/)</p>
   </div>
 
-  <div style="display='flex'">
+  <div  style="display='flex'">
     <h1>Technologies</h1>
     <a href="https://github.com/guikaua12">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
