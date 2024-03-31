@@ -11,7 +11,7 @@
     <h1>Technologies & Tools</h1>
 
 <div style="max-width: 500px">
-    <h2>Front-end</h2>
+    <h3>Front-end</h3>
     <a href="https://github.com/guikaua12">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
              alt="JavaScript"/>
@@ -26,8 +26,9 @@
     </a>
 </div>
 
+
 <div style="max-width: 500px">
-    <h2>Back-end</h2>
+    <h3>Back-end</h3>
     <a href="https://github.com/guikaua12">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
              alt="Java"/>
@@ -41,7 +42,7 @@
 </div>
 
 <div style="max-width: 500px">
-    <h2>Database</h2>
+    <h3>Database</h3>
     <a href="https://github.com/guikaua12">
         <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
              alt="MySQL"/>
@@ -51,7 +52,7 @@
 </div>
 
 <div style="max-width: 500px">
-    <h2>Tools</h2>
+    <h3>Tools</h3>
     <a href="https://github.com/guikaua12">
         <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
              alt="IntelliJ IDEA"/>
