@@ -4,7 +4,7 @@
     <div>
         <h1>Hi, my name is Guilherme</h1>
         <h3>I'm 21 years old and Coding in Java & Typescript is my passion.</h3>
-        <p>My portfolio website: (https://approximations.software/)</p>
+        <p>My portfolio website: (https://guilhermekaua.tech/)</p>
     </div>
 
 <div style="display:flex; flex-direction: column">
