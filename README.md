@@ -64,6 +64,9 @@
 
 <div>
     <h1>Activity</h1>
-    
+    <a href="https://github.com/guikaua12">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guikaua12&range=all_time&layout=compact&theme=dark"
+             alt="Activity">
+    </a>
 </div>
 </div>
