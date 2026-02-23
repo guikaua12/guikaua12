@@ -3,7 +3,7 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center">
     <div>
         <h1>Hi, my name is Guilherme</h1>
-        <h3>I'm 21 years old and Coding in Java & Typescript is my passion.</h3>
+        <h3>I'm 22 years old and Coding in Java & Typescript is my passion.</h3>
         <p>My portfolio website: (https://guilhermekaua.tech/)</p>
     </div>
 
